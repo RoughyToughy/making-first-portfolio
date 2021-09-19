@@ -61,3 +61,16 @@ p{
    border-radius: 5px;
    font-weight: 700px;
 }
+.Bottom-banner
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0px 80%;
+}
+.shadow{
+    width: 40%;
+    padding: 20px;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: 10px 10px 50px grey;
+}
