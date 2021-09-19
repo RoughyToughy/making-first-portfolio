@@ -15,7 +15,7 @@ p{
 .JHColor{
     color: orangered;
 }
-section{
+.flex-cont{
     display: flex;
     margin-bottom: 150px;
 }
